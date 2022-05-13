@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="none" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+<path d="M13 14H3C2.44772 14 2 13.5523 2 13V3C2 2.44772 2.44772 2 3 2H7.5V3H3V13H13V8.5H14V13C14 13.5523 13.5523 14 13 14ZM10.5 1V2H13.295L9 6.295L9.705 7L14 2.705V5.5H15V1H10.5Z" clip-rule="evenodd" fill="url(#a)" fill-rule="evenodd"/>
+<defs>
+<linearGradient id="a" x1="2" x2="14.675" y1="7.5" y2="7.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#E926C3" offset="0"/>
+<stop stop-color="#FF4D86" offset="1"/>
+</linearGradient>
+</defs>
+</svg>
